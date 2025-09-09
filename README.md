@@ -63,4 +63,8 @@ Tools
 Quartus Prime Lite v24.1
 
 Platform Designer
-ModelSim (simulation done so far)
+ModelSim (simulation done so far) 
+
+
+## 📫 Connect with Me
+[![LinkedIn]www.linkedin.com/in/priyavarsini-jm-74957927a
